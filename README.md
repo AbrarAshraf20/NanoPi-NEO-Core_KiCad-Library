@@ -4,3 +4,5 @@ The NanoPi NEO Core(abbreviated as "NEO Core") is an alternative NanoPi NEO that
 The NEO Core uses a popular Allwinner H3 SoC and has onboard 256M/512M DDR3 RAM. FriendlyElec offers models with three eMMC options: 8GB/16GB/32GB and one that doesn't have eMMC at all.
 
 # Pinouts 
+![NanoPi NEO Core Pins](https://github.com/AbrarAshraf20/NanoPi-NEO-Core_KiCad-Library/blob/main/Core_en_03.jpg)
+Source: http://nanopi.io/nanopi-neo-core.html
