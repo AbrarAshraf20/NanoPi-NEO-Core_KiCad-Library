@@ -6,3 +6,7 @@ The NEO Core uses a popular Allwinner H3 SoC and has onboard 256M/512M DDR3 RAM.
 # Pinouts 
 ![NanoPi NEO Core Pins](https://github.com/AbrarAshraf20/NanoPi-NEO-Core_KiCad-Library/blob/main/Core_en_03.jpg)
 Source: http://nanopi.io/nanopi-neo-core.html
+
+# Footprint
+![NanoPi Footprint Board view](https://github.com/AbrarAshraf20/NanoPi-NEO-Core_KiCad-Library/blob/main/Board_View_Footprint.png)
+![NanoPi Footprint Symbol]()
