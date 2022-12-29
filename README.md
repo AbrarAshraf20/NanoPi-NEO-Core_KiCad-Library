@@ -10,5 +10,5 @@ Source: http://nanopi.io/nanopi-neo-core.html
 # Footprint
 ![NanoPi Footprint Board view](https://github.com/AbrarAshraf20/NanoPi-NEO-Core_KiCad-Library/blob/main/Board_View_Footprint.png)
 ![NanoPi Footprint Symbol](https://github.com/AbrarAshraf20/NanoPi-NEO-Core_KiCad-Library/blob/main/NanoPi_Symbol.png)
-![NanoPi Footprint Footprint]()
+![NanoPi Footprint Footprint](https://github.com/AbrarAshraf20/NanoPi-NEO-Core_KiCad-Library/blob/main/FootPrint_Layout.png)
 
